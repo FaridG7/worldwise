@@ -1,0 +1,62 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Sazava",
+      "emoji": "🇨🇿",
+      "date": "2023-09-28T08:31:04.912Z",
+      "notes": "",
+      "position": {
+        "lat": "49.55463795374144",
+        "lng": "15.860513949675804"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Andimeshk",
+      "emoji": "🇮🇷",
+      "date": "2023-09-28T08:32:03.504Z",
+      "notes": "",
+      "position": {
+        "lat": "32.46835027580669",
+        "lng": "48.38901105892804"
+      },
+      "id": 98443199
+    }
+  ]
+}
